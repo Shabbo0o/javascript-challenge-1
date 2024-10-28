@@ -9,6 +9,5 @@
 let fruit = "Apple";
 fruit = "Orange";
 
-
   // To complete this task, you should see "The fruit is Orange" in the console.
   console.log("The fruit is", fruit)
